@@ -8,7 +8,7 @@
     width: 1440px;
     height: 3040px;
     /* background-image: url(../images/bodybg.jpeg); */
-    background: url(images/bodybg.jpeg) no-repeat center center fixed;
+    background: url(images/bodybg.jpg) no-repeat center center fixed;
     background-size: cover;
     margin: 0 auto;
 }
@@ -524,7 +524,7 @@ a:hover {
 .footer{
     width: 1440px;
     height: 330px;
-    background: url(images/footerbg.jpeg) no-repeat center center fixed;
+    background: url(images/footerbg.jpg) no-repeat center center fixed;
     background-size: cover;
     /* margin: 0 auto; */
     display: flex;
